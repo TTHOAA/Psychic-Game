@@ -1,5 +1,5 @@
 body {
-
-    background-image: url("/assets/images/stars.gif");
-
+    color: white;
+    background-image: url(../images/stars.gif);
+    font-size: 20px;
 }
